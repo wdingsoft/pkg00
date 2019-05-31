@@ -1,0 +1,77 @@
+/* html标签统一定义---------------------------------*/
+body{text-align:center;padding:0px;margin:0px;font-family:"宋体",Arial, Helvetica, sans-serif;}
+img{border:0px;}
+ul,li,form,span,div{list-style:none;padding:0;margin:0;}
+a{text-decoration:none;color:#000;}
+a:hover{text-decoration:underline;color:#f00;}
+
+/* EDN页面结构定义---------------------------------*/
+
+#body{width:850px; margin:0 auto;padding:0px;} 
+#header{width:100%;text-align:left;}
+
+#content{text-align:left;clear:both;}
+#content1{}
+#content3{}
+#content2{}
+#CButton{clear:both;}
+#footer{clear:both;text-align:center;width:850px;}
+#header:after,#content:after,#content1:after,#content3:after,#content2:after{content: ".";display:block;height:0;clear:both;visibility: hidden;}
+
+
+#PathID1 a,#PathID2 a,#PathID3 a,#PathID4 a,#PathID5 a,#PathID6 a{text-decoration:underline;}
+
+#SPage {text-align:center;font-size:16px;display:block}
+#SPage #Page{color:blue}
+.ADimg{clear:both;margin-top:6px;}
+
+
+/*头部样式*/
+.HeaderTop{height:25px;font-size:12px;color:#9E0B0E;line-height:25px;background:#fff;}
+.HeaderTop a{color:#9E0B0E;}
+.HeaderTop_left{float:left;width:480px;*width:497px;padding-left:17px;}
+.HeaderTop_right{float:left;width:353px;}
+.HeaderTop_right div{float:left;height:25px;}
+.HeaderTop_right .right01{width:66px;*width:81px;background:url(/res/Home/u/0903/090341268.gif) no-repeat 0px 6px;padding-left:15px;}
+.HeaderTop_right .right02{width:62px;*width:77px;background:url(/res/Home/u/0903/090341269.gif) no-repeat 0px 8px;padding-left:15px;}
+.HeaderTop_right .right03{width:38px;*width:53px;background:url(/res/Home/u/0903/090341270.gif) no-repeat 0px 7px;padding-left:15px;}
+.HeaderTop_right .right04{width:70px;color:#00f;text-align:center;}
+.HeaderTop_right .right05{width:70px;}
+
+
+.HeaderTitle{height:85px;font-size:12px;background:#fff;}
+.HeaderTitle_left{width:497px;float:left;}
+.HeaderTitle_right{float:left;width:353px;background:url(/res/Home/u/0903/090341272.gif) no-repeat left bottom;height:85px;}
+.HeaderTitle_right .RightDiv01{padding-left:15px;height:55px;}
+.HeaderTitle_right .RightDiv03{padding-left:282px;padding-top:14px;}
+.HeaderTitle_right .RightDiv03 a{color:#F7941D;}
+
+
+/*导航*/
+.HeaderNav{background:#750806;font-size:12px;}
+.HeaderNav a{color:#fff;}
+.HeaderNav_top{height:25px;border-bottom:1px solid #A50701;padding-left:33px;}
+.HeaderNav ul li{padding:6px 13px;float:left;background:url(/res/Home/u/0903/090341279.gif) no-repeat left 50%;}
+.HeaderNav ul .li01{background:none;}
+.HeaderNav_bottom{height:25px;padding-left:33px;margin-bottom:1px;}
+
+
+.HeaderName{float:left;width:138px;*width:159px;height:21px;*height:36px;font-size:14px;color:#9E0B0E;padding-left:21px;padding-top:15px;background:url(/res/Home/u/0903/090341281.gif) no-repeat 8px 19px;}
+.HeaderName a{color:#9E0B0E;}
+
+
+.HeaderLog{float:right;width:605px;*width:691px;height:36px;background:url(/res/Home/u/0903/090341280.gif) no-repeat left top;padding-left:64px;}
+.HeaderLog table td{font-size:12px;color:#FFDA17;height:36px;}
+.HeaderLog table .td01{width:61px;}
+.HeaderLog table .td02{width:114px;}
+.HeaderLog table .td03{width:50px;}
+.HeaderLog table .td04{width:119px;}
+.HeaderLog table .td05{width:58px;}
+.HeaderLog table .td06{width:72px;}
+.HeaderLog table .td02 input,.HeaderLog table .td04 input{height:15px;border:0px;width:105px;}
+
+
+
+.HeaderLog table td a{/*display:block;float:left;*/margin-left:5px;color:#000;background:url(/res/Home/0907/09079940.gif) no-repeat left center;text-align:center;padding:8px 5px;}
+.lzj_dlh{display:block;float:left;height:18px;line-height:18px;}
+.lzj_dlh #memberpersonal,.lzj_dlh #memberadmin{display:none;}

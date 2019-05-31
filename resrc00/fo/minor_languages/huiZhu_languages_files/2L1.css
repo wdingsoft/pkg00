@@ -1,0 +1,26 @@
+/*友情连接样式*/
+.Link{margin-top:10px;text-align:left;}
+.Link_top{height:24px;line-height:24px;font-size:14px;font-weight:bold;color:#9E0B0E;background:#F3DFE0 url(/res/Home/u/0903/09031409.gif) no-repeat 17px 7px;padding-left:38px;}
+.Link_con{border:1px solid #E1E1E1;padding-bottom:10px;text-align:left}
+.Link_con_top{width:776px;*width:800px;min-height:81px;*height:90px;padding-left:24px;line-height:180%;padding-top:9px;font-size:13px;text-align:left}
+.Link_con_bottom{padding:0px 20px;}
+.Link_con_bottom img{margin-right:8px;margin-bottom:10px;}
+.Link_con_bottom #AmityLinkIDgetLogo{float:left;height:45px;display:block;width:100px;text-align:center;}
+.Link_con_bottom #AmityLinkIDgetLogo img{height:31px;}
+/*页脚样式*/
+.footerall{clear:both;padding-top:10px;/*height:135px;height:145px;*/overflow-y:hidden;}
+.footerall:after{content: ".";display:block;height:0;clear:both;visibility: hidden;}
+.footer{width:100%;height:27px;background:#A92B2C;line-height:27px;text-align:center;font-size:12px;}
+.footer a{color:#ffffff; text-decoration:none;}
+.footer :hover{color:#fff}
+.up{float:right;width:29px;height:9px;margin-top:10px; *margin-top:-19px;margin-right:15px;}
+
+.footer1{text-align:center;line-height:150%;/*height:90px;*/margin-top:12px;color:#959595;width:100%;font-size:12px;}
+.footer1 .email{margin-top:1px;  position:absolute;}
+.footer1 .tel{margin-top:1px;  position:absolute;}
+.footer1 .ir{margin-top:2px;  position:absolute;}
+
+
+/*新闻副标题*/
+.list #ReportIDgetSubhead{display:block;text-align:center;font-size:18px;font-weight:bold;line-height:150%;padding-top:20px;}
+.listcon #ReportIDkicker{display:block;text-align:left;font-size:18px;font-weight:bold;}

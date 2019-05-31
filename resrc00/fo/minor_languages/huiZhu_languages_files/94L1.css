@@ -1,0 +1,29 @@
+.R_reading{width:225px;float:right;}
+.R_reading .ImportantNews{width:100%;height:25px;background:#F3DFE0;line-height:25px;}
+.R_reading .ImportantNews .ImportantNews1{display:block;float:left;font-size:14px;font-weight:bold;color:#760904;margin-left:10px; background:url(/res/Home/u/0903/09031413.jpg) no-repeat left center;padding-left:15px;}
+.R_reading .ImportantNews .news_more{display:block;float:right;margin-left:15px;font-size:12px;}
+.R_reading .ImportantNews .news_more a{color:#760904;margin-right:15px;}
+
+
+
+.R_reading .list02 li{height:20px;line-height:20px;background:url(/res/Home/u/0903/090324510.gif) no-repeat left center;padding-left:10px;margin-left:15px;}
+.R_reading .list02 li #ReportIDname{font-size:12px;}
+.R_reading .list02 li #ReportIDname a{color:#000;}
+
+.R_reading .recommend{padding-top:10px;border-bottom:1px dotted #A49D80;padding-bottom:10px;min-height:70px;*height:90px;width:215px;margin-left:0px;}
+.R_reading .recommend .ReportIDPicture{width:92px;padding-left:8px}
+.R_reading .recommend #ReportIDPicture{width:84px;height:72px;border:1px solid #000000;}
+.R_reading .recommend #ReportIDPicture img{width:84px;height:72px;}
+.R_reading .recommend .ReportIDLogograph{padding-left:8px;}
+.R_reading .recommend #ReportIDLogograph{font-size:12px;line-height:150%;text-align:left;}
+.R_reading .recommend #ReportIDLogograph a{color:#ED1B23;}
+.R_reading .recommend #ReportIDname{height:20px;line-height:20px;background:url(/res/Home/u/0903/090324510.gif) no-repeat left center;padding-left:10px;margin-left:15px;font-size:12px;display:block;clear:both;}
+
+
+
+
+
+.NewsLeft .ImportantNews{width:100%;height:25px;background:#F3DFE0;line-height:25px;}
+.NewsLeft .ImportantNews .ImportantNews1{display:block;float:left;font-size:14px;font-weight:bold;color:#760904;margin-left:10px; background:url(/res/Home/u/0903/09031413.jpg) no-repeat left center;padding-left:15px;}
+.NewsLeft .ImportantNews .news_more{display:block;float:right;margin-left:15px;font-size:12px;}
+.NewsLeft .ImportantNews .news_more a{color:#760904;margin-right:15px;}
