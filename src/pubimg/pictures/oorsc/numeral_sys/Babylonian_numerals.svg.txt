@@ -1,0 +1,16 @@
+https://en.wikipedia.org/wiki/Babylonian_cuneiform_numerals
+
+
+
+Assyro-Chaldean Babylonian cuneiform numerals were written in cuneiform, using a wedge-tipped reed stylus to make a mark on a soft clay tablet which would be exposed in the sun to harden to create a permanent record.
+
+The Babylonians, who were famous for their astronomical observations, as well as their calculations (aided by their invention of the abacus), used a sexagesimal (base-60) positional numeral system inherited from either the Sumerian or the Eblaite civilizations.[1] Neither of the predecessors was a positional system (having a convention for which 'end' of the numeral represented the units).
+
+
+
+Origin
+This system first appeared around 2000 BC;[1] its structure reflects the decimal lexical numerals of Semitic languages rather than Sumerian lexical numbers.[2] However, the use of a special Sumerian sign for 60 (beside two Semitic signs for the same number)[1] attests to a relation with the Sumerian system.[2]
+
+
+Zero
+The Babylonians did not technically have a digit for, nor a concept of, the number zero. Although they understood the idea of nothingness, it was not seen as a number—merely the lack of a number. Later Babylonian texts used a placeholder (Babylonian digit 0.svg) to represent zero, but only in the medial positions, and not on the right-hand side of the number, as we do in numbers like 100.[4]
