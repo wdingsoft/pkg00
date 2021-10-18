@@ -6,3 +6,18 @@ Studies of the Collection of the National Museum of China
 Page 119.
 
 
+  "StudiesoftheCollectionoftheNationalMuseumofChina2006book":{
+        "doctype": "book",
+        "author": "Compiling Commitee",
+        "editor": "Zhu, Feng-Hang and Shen, Jian-hua",
+        "title": "Studies of the Collection of the National Museum of China: Oracle Bones Inscription",
+        "publisher": "Shanghai Ancient Books Publishing House",
+        "isbn": "7532543021,9787532543021",
+        "callnumber": " ",
+        "Series": "Studies of the Collections of the National Museum of China",
+        "address": "Shanghai",
+        "year": "11/2007",
+        "numpages": "314",
+    },
+
+
