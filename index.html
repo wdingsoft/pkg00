@@ -112,13 +112,15 @@
             $("#panel").prepend(`<input value='${localStorage.localhostbase}'></input><a onclick="localStorage.localhostbase=$(this).prev().val();">*</a><a href='${localhost}'>${localhost}</a><br>`);
         };///////////////
         function gen_table_indobj() {
-            var tbs = "<table border=1><thead><tr><th>#</th><th>fname</th><th>ext</th><th>size</th></tr></thead>"
-            var idx = 0
+            var trs = ""
+            var idx = 0, totsize = 0, totfiles = 0
             const IMGFS = ["jpg", "png", "jpeg", "gif"]
             Object.keys(indobj).forEach(function (path) {
                 var ar = indobj[path]
                 ar.forEach(function (ob) {
                     for (const [f, s] of Object.entries(ob)) {
+                        totsize += s
+                        totfiles ++
                         var mat = f.match(/[\.](\w+)$/)
                         var ext = ""
                         if (mat) {
@@ -128,10 +130,11 @@
                         //if (IMGFS.indexOf(ext) >= 0) {
                         //str = `<img src='${path}/${f}'/>`
                         //}
-                        tbs += `<tr><td>${idx++}</td><td title=''><a href='${path}/${f}'>${str}</a></td><td>${ext}</td><td>${s}</td></tr>`
+                        trs += `<tr><td>${idx++}</td><td title=''><a href='${path}/${f}'>${str}</a></td><td>${ext}</td><td>${s}</td></tr>`
                     }
                 })
             })
+            var tbs = `totfiles:${totfiles},totsize:${totsize}<br><table border=1><thead><tr><th>#</th><th>fname</th><th>ext</th><th>size</th></tr></thead>${trs}`
             $("#explorePanel").html(tbs).find("td").on("click", function () {
                 $(this).toggleClass("hili")
             })

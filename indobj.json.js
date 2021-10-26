@@ -1,13 +1,13 @@
 var indobj = {
     "./": [
         {
-            "index.htm": 286374
+            "index.htm": 296918
         },
         {
-            "index.html": 8083
+            "index.html": 8257
         },
         {
-            "indobj.json.js": 104377
+            "indobj.json.js": 108186
         },
         {
             "indusr.js": 24
@@ -24,7 +24,7 @@ var indobj = {
             "index.htm": 6666
         },
         {
-            "index.html": 8083
+            "index.html": 8257
         },
         {
             "index.js": 24
@@ -1172,12 +1172,6 @@ var indobj = {
             "SaintLukeDrawingTheVirgin.jpg": 29301
         },
         {
-            "________drawing____.jpg": 437069
-        },
-        {
-            "__hao.txt": 0
-        },
-        {
             "b16530.gif": 845
         },
         {
@@ -1191,6 +1185,12 @@ var indobj = {
         },
         {
             "davince-.png": 94343
+        },
+        {
+            "drawing_hao.jpg": 437069
+        },
+        {
+            "drawing_hao.txt": 0
         },
         {
             "giovanni-battista-salvi-da-sassoferrato-madonna-and-child.jpg": 7890
@@ -1806,7 +1806,11 @@ var indobj = {
             "EGBoring(1930)psychological-2-633.jpg": 8570
         }
     ],
-    "src/pubimg/pictures/doc/Outside": [],
+    "src/pubimg/pictures/doc/Outside": [
+        {
+            "sexagency_0328.png": 205317
+        }
+    ],
     "src/pubimg/pictures/doc/Outside/20140424-burnt-turtle": [],
     "src/pubimg/pictures/doc/Outside/20140424-burnt-turtle/860OKMZO": [
         {
@@ -2236,16 +2240,16 @@ var indobj = {
     ],
     "src/pubimg/pictures/doc/Outside/calender": [
         {
-            "113080354224a4a5f2l.jpg": 186677
-        },
-        {
             "11fe4c4d35fg215-heaven-stem-earth-branch.jpg": 143943
         },
         {
-            "20090301121239.jpg": 173983
+            "11fe4c4d35fg215-heaven-stem-earth-branch_bw.jpg": 27545
         },
         {
-            "448_20121025231346000349_1.jpg": 175013
+            "11fe4c4d35fg215-heaven-stem-earth-branch_hands.png": 14593
+        },
+        {
+            "11fe4c4d35fg215-heaven-stem-earth-branch_note.txt": 19
         },
         {
             "5748563449362112662.jpg": 267668
@@ -2254,22 +2258,127 @@ var indobj = {
             "5800e42d131c4db3ba2b7b0e3fea935c.jpg": 113866
         },
         {
+            "Sexagency_partial_bw.jpg": 1948729
+        },
+        {
+            "Sexagency_partial_bw.txt": 687
+        },
+        {
+            "Sexagency_partial_color.jpg": 2076782
+        },
+        {
+            "Sexagency_partial_color2.jpg": 186677
+        },
+        {
+            "Sexagency_partial_color3d.jpg": 175013
+        },
+        {
+            "Sexagency_partial_color_zoom.jpg": 173983
+        },
+        {
+            "Sexagency_partial_icon.jpg": 22772
+        },
+        {
             "Sexagency_partial_sample.jpg": 2276186
         },
         {
             "Sexagency_partial_sample.txt": 672
         },
         {
-            "U8472P1488DT20140109143720.jpg": 27545
+            "book12-0295.png": 469402
         },
         {
-            "U8472P1488DT20140109143757.png": 138188
+            "book12-0296.png": 469992
         },
         {
-            "r200607103_0030_fe6196.png": 14593
+            "book12-0297.png": 437344
         },
         {
-            "xinsrc_500201110925976420710.gif": 22772
+            "book12-0298.png": 423693
+        },
+        {
+            "book12-0299.png": 490992
+        },
+        {
+            "book12-0300.png": 433310
+        },
+        {
+            "book12-0301.png": 447587
+        },
+        {
+            "book12-0302.png": 467632
+        },
+        {
+            "book12-0303.png": 468251
+        },
+        {
+            "book12-0304.png": 493662
+        },
+        {
+            "book12-0305.png": 501741
+        },
+        {
+            "book12-0306.png": 460527
+        },
+        {
+            "book12-0307.png": 445918
+        },
+        {
+            "book12-0308.png": 466884
+        },
+        {
+            "book12-0309.png": 448474
+        },
+        {
+            "book12-0310.png": 459732
+        },
+        {
+            "book12-0311.png": 361333
+        },
+        {
+            "book12-0312.png": 473011
+        },
+        {
+            "book12-0313.png": 491638
+        },
+        {
+            "book12-0314.png": 434570
+        },
+        {
+            "book12-0315.png": 395504
+        },
+        {
+            "book12-0316.png": 560309
+        },
+        {
+            "book12-0317.png": 502355
+        },
+        {
+            "book12-0318.png": 491256
+        },
+        {
+            "book12-0319.png": 583123
+        },
+        {
+            "book12-0322.png": 382591
+        },
+        {
+            "book12-0323.png": 472999
+        },
+        {
+            "book12-0323_fr_web.png": 138188
+        },
+        {
+            "book12-0324.png": 505571
+        },
+        {
+            "book13-0327-41849.png": 166700
+        },
+        {
+            "book13-0328-pg5227-id41852-3.png": 205317
+        },
+        {
+            "book13-0330-pg5229-id41861.png": 164372
         }
     ],
     "src/pubimg/pictures/doc/Outside/constellation": [
@@ -2632,6 +2741,53 @@ var indobj = {
     "src/pubimg/pictures/doc/envolution": [
         {
             "newscallops13millionyears.jpg": 46683
+        }
+    ],
+    "src/pubimg/pictures/doc/man_oryx_monkey_leopard_Neo-Assyrian_Metropolitan_MuseumofArt_files": [
+        {
+            "Ancient_Near_Eastern_Art_The_Metropolitan_Museum_of_Art_Bulletin_v_41_no_4_Spring_1984.jpg": 14812
+        },
+        {
+            "Discovering_the_Art_of_the_Ancient_Near_East_The_Metropolitan_Museum_of_Art_Bulletin_v_68_no_1_Summer_2010.jpg": 29015
+        },
+        {
+            "Masterpieces_of_The_Metropolitan_Museum_of_Art_1993.jpg": 19366
+        },
+        {
+            "Masterpieces_of_the_Metropolitan_Museum_of_Art_2006.jpg": 20113
+        },
+        {
+            "The_Metropolitan_Museum_of_Art_Guide_1994.jpg": 27446
+        },
+        {
+            "art_of_the_ancient_near_east_a_resource_for_educators.jpg": 17490
+        },
+        {
+            "assyria_to_iberia_art_and_culture_in_the_iron_age.jpg": 30932
+        },
+        {
+            "assyria_to_iberia_at_the_dawn_of_the_classical_age.jpg": 18885
+        },
+        {
+            "guide_to_the_collections_ancient_near_eastern_art.jpg": 28279
+        },
+        {
+            "guide_to_the_metropolitan_museum_of_art_1972.jpg": 14741
+        },
+        {
+            "in_the_presence_of_kings_royal_treasures_from_the_collections_of_the_metropolitan_museum_of_art.jpg": 10457
+        },
+        {
+            "main-image.jpg": 253917
+        },
+        {
+            "main-image.txt": 2988
+        },
+        {
+            "making_the_met_1870-2020.jpg": 27254
+        },
+        {
+            "preview.jpg": 29810
         }
     ],
     "src/pubimg/pictures/doc/p002-methodolgy_StimulusDiffusion_files": [
