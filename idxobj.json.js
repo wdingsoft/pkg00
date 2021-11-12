@@ -1,48 +1,16 @@
 var idxobj = {
     "./": [
         {
-            "idxobj.json.js": 111242
+            "idxobj.json.js": 112757
         },
         {
             "idxor.html": 1519
         },
         {
-            "index.htm": 296918
-        },
-        {
             "index.html": 8257
-        },
-        {
-            "indobj.json.js": 108186
-        },
-        {
-            "indusr.js": 24
         },
         {
             "t.sh": 713
-        }
-    ],
-    "indexer": [
-        {
-            "github_home.htm": 867
-        },
-        {
-            "index.htm": 6666
-        },
-        {
-            "index.html": 8257
-        },
-        {
-            "index.js": 24
-        },
-        {
-            "index.sh": 392
-        },
-        {
-            "index_watch.nod.js": 10972
-        },
-        {
-            "~make_htm.nd.js": 1587
         }
     ],
     "src": [],
@@ -1625,6 +1593,9 @@ var idxobj = {
         },
         {
             "castelfranco_madonna-148C9AC547B603034BF.jpg": 115872
+        },
+        {
+            "chosen_kingdomofgod.jpg": 92461
         },
         {
             "god_appearing_mary_magdalen_c_hi-148C99FE5485938B745.jpg": 44468
