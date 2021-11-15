@@ -1,10 +1,10 @@
 var idxobj = {
     "./": [
         {
-            "idxobj.json.js": 112757
+            "idxobj.json.js": 112823
         },
         {
-            "idxor.html": 1519
+            "idxor.html": 1517
         },
         {
             "index.html": 8257
@@ -361,6 +361,12 @@ var idxobj = {
         },
         {
             "animals3-OCN-360x240.txt": 83
+        },
+        {
+            "bchurch_house.png": 1147148
+        },
+        {
+            "bhchurch.jpg.crdownload": 573557
         },
         {
             "finger_upward.jpg": 6660
