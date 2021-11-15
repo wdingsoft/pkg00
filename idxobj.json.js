@@ -1,13 +1,13 @@
 var idxobj = {
     "./": [
         {
-            "idxobj.json.js": 112823
+            "idxobj.json.js": 112952
         },
         {
             "idxor.html": 1517
         },
         {
-            "index.html": 8257
+            "index.html": 681
         },
         {
             "t.sh": 713
@@ -364,9 +364,6 @@ var idxobj = {
         },
         {
             "bchurch_house.png": 1147148
-        },
-        {
-            "bhchurch.jpg.crdownload": 573557
         },
         {
             "finger_upward.jpg": 6660
@@ -3302,6 +3299,9 @@ var idxobj = {
         },
         {
             "visual_thinking_imge007.png": 2051
+        },
+        {
+            "visual_thinking_postcard_german_1888.png": 154599
         }
     ],
     "src/pubimg/pictures/from_reference": [
