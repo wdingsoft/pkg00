@@ -1,10 +1,10 @@
 var idxobj = {
     "./": [
         {
-            "idxobj.json.js": 113042
+            "idxobj.json.js": 119274
         },
         {
-            "idxor.html": 1517
+            "idxor.html": 1495
         },
         {
             "index.html": 681
@@ -268,6 +268,14 @@ var idxobj = {
         }
     ],
     "src/pubimg": [],
+    "src/pubimg/pdf": [
+        {
+            "Malinowski_Bronislaw_Magic_Science_and_Religion_and_Other_Essays_1948.pdf": 20998676
+        },
+        {
+            "Malinowski_Bronislaw_Magic_Science_and_Religion_and_Other_Essays_1948.txt": 110
+        }
+    ],
     "src/pubimg/pictures": [
         {
             "20140412_3c97795e7e7d43e0596eu2BglMK4HkqX.jpg": 110930
@@ -2542,6 +2550,9 @@ var idxobj = {
         },
         {
             "book13-0330-pg5229-id41861.png": 164372
+        },
+        {
+            "clock12earth_branch.png": 292626
         }
     ],
     "src/pubimg/pictures/doc/Outside/constellation": [
@@ -2741,6 +2752,65 @@ var idxobj = {
         },
         {
             "susan2004111117270208b11.jpg": 3887
+        }
+    ],
+    "src/pubimg/pictures/doc/Outside/wine": [
+        {
+            "AMPHORAE_the_academic_wino.jpg": 1669828
+        },
+        {
+            "AMPHORAE_the_academic_wino.txt": 297
+        },
+        {
+            "DIAGRAM-AMPHORA_the_academic_wino.jpg": 670769
+        },
+        {
+            "egypt_photo-1.jpg": 114872
+        },
+        {
+            "egypt_photo-2.jpg": 95020
+        },
+        {
+            "egypt_photo-2.txt": 453
+        },
+        {
+            "egypt_photo-3.jpg": 177788
+        },
+        {
+            "egypt_photo-4.jpg": 138298
+        },
+        {
+            "egypt_wine-lede_2.jpg": 222434
+        },
+        {
+            "egypt_wine_jar.jpg": 565118
+        },
+        {
+            "egypt_wine_jar.txt": 96
+        },
+        {
+            "ejypt_Screen-Shot-2014-07-25-at-10.04.11-AM.jpg": 54398
+        },
+        {
+            "ejypt_Screen-Shot-2014-07-25-at-10.04.11-AM.txt": 310
+        },
+        {
+            "greek_dad844d03601b4e935c513f3cc3fd874.jpg": 19843
+        },
+        {
+            "greek_dad844d03601b4e935c513f3cc3fd874.txt": 125
+        },
+        {
+            "massad_download.jpeg": 5130
+        },
+        {
+            "wine_jar_bf7d1137278d7c11dc6f389b62480c32.jpg": 15292
+        },
+        {
+            "wine_jar_bf7d1137278d7c11dc6f389b62480c32.txt": 1804
+        },
+        {
+            "wine_jar_bf7d1137278d7c11dc6f389b62480c32_bw.jpg": 328879
         }
     ],
     "src/pubimg/pictures/doc/Table000-general_files": [
@@ -4575,6 +4645,12 @@ var idxobj = {
             "Egypt_Medicine2.jpg": 17529
         },
         {
+            "Matthew_5_222560px-Yelin-Bergpredigt.jpg": 1034136
+        },
+        {
+            "Matthew_5_222560px-Yelin-Bergpredigt.txt": 82
+        },
+        {
             "New Rich Text Document.rtf": 31269
         }
     ],
@@ -5186,10 +5262,204 @@ var idxobj = {
     ],
     "src/tbi-pdf": [
         {
+            "--.txt": 0
+        },
+        {
+            "102505701_1_x.webp": 205338
+        },
+        {
+            "10333562_1_x copy 3.txt": 0
+        },
+        {
+            "10333562_1_x copy 4.txt": 0
+        },
+        {
+            "10333562_1_x.txt": 0
+        },
+        {
+            "10333562_1_x.webp": 20476
+        },
+        {
+            "16523792_1_x.txt": 374
+        },
+        {
+            "16523792_1_x.webp": 20254
+        },
+        {
+            "19180220_3_x.webp": 18232
+        },
+        {
             "300001216155131306860963431_950.jpg": 103382
         },
         {
+            "Chinese-Neolithic-Qijia-Amphora-0.jpg": 66362
+        },
+        {
+            "Chinese-Neolithic-Qijia-Amphora-0.txt": 1509
+        },
+        {
+            "Fine-Large-Chinese-Neolithic-Jar-0.jpg": 112057
+        },
+        {
+            "Fine-Large-Chinese-Neolithic-Jar-0.txt": 1616
+        },
+        {
+            "Fine-Large-Chinese-Neolithic-Jar-1.jpg": 115538
+        },
+        {
+            "Fine-Large-Chinese-Neolithic-Jar-2.jpg": 120444
+        },
+        {
+            "Rare-Large-Chinese-Neolithic-Qijia-Storage-Jar-0.jpg": 78749
+        },
+        {
+            "Rare-Large-Chinese-Neolithic-Qijia-Storage-Jar-0.txt": 1521
+        },
+        {
+            "TheXia_Shang_ The original_Black_civilizations_of_China.html": 40633
+        },
+        {
+            "c5de5e2d32b9c9a256a70eb252071076.jpg": 63374
+        },
+        {
+            "c5de5e2d32b9c9a256a70eb252071076.txt": 291
+        },
+        {
+            "chinese-neolithic-pottery-vase-1.jpg": 219260
+        },
+        {
+            "chinese-neolithic-pottery-vase-1.txt": 1621
+        },
+        {
+            "chinese-neolithic-pottery-vase-2.jpg": 229169
+        },
+        {
+            "chinese-neolithic-pottery-vase-3.jpg": 258404
+        },
+        {
+            "chinese-neolithic-pottery-vase-4.jpg": 223330
+        },
+        {
+            "ebfb7-0lppft1n8wf3uzhgt.jpg": 767087
+        },
+        {
             "imagesCA9MRI2E.jpg": 11430
+        }
+    ],
+    "src/tbi-pdf/TheXia_Shang_ The original_Black_civilizations_of_China_files": [
+        {
+            "African_origin.jpg": 96468
+        },
+        {
+            "Book_quote.JPG": 106122
+        },
+        {
+            "China_1.JPG": 131224
+        },
+        {
+            "China_Shang_Bronze.jpg": 19978
+        },
+        {
+            "China_Shang_jade.jpg": 36898
+        },
+        {
+            "China_Shang_jade_2.jpg": 29229
+        },
+        {
+            "China_bronze.jpg": 48527
+        },
+        {
+            "Chinese_5a_big.JPG": 36660
+        },
+        {
+            "Chinese_now15_big.JPG": 43719
+        },
+        {
+            "Diamond_sutra_1.jpg": 236633
+        },
+        {
+            "Diamond_sutra_2.jpg": 358384
+        },
+        {
+            "Han_study_1.jpg": 157716
+        },
+        {
+            "Han_study_2.jpg": 119820
+        },
+        {
+            "Hmong_1.JPG": 33667
+        },
+        {
+            "Hmong_2.JPG": 70428
+        },
+        {
+            "Hmong_3.JPG": 142697
+        },
+        {
+            "Hmong_4.JPG": 65812
+        },
+        {
+            "Hmong_5.JPG": 69735
+        },
+        {
+            "Hmong_6.JPG": 64289
+        },
+        {
+            "Hmong_7.JPG": 27961
+        },
+        {
+            "Loulan_2.jpg": 271389
+        },
+        {
+            "Mummy.jpg": 129928
+        },
+        {
+            "Mummy_2.jpg": 113071
+        },
+        {
+            "Peking_man_1.jpg": 57511
+        },
+        {
+            "Peking_man_2.jpg": 58444
+        },
+        {
+            "Xia_jade.jpg": 16593
+        },
+        {
+            "Xia_pot.jpg": 37695
+        },
+        {
+            "Zhou_3.jpg": 94632
+        },
+        {
+            "bamboo3.jpg": 2107
+        },
+        {
+            "chariot_grave.jpg": 129781
+        },
+        {
+            "ding.jpg": 60455
+        },
+        {
+            "ding_2.jpg": 58128
+        },
+        {
+            "shang.jpg": 34980
+        },
+        {
+            "shang_2.jpg": 83157
+        },
+        {
+            "shang_3.jpg": 77338
+        },
+        {
+            "shang_4.jpg": 55079
+        },
+        {
+            "shang_5.jpg": 41140
+        },
+        {
+            "shang_6.jpg": 103543
         }
     ]
 }
