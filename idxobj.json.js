@@ -1,10 +1,10 @@
 var idxobj = {
     "./": [
         {
-            "idxobj.json.js": 119274
+            "idxobj.json.js": 119346
         },
         {
-            "idxor.html": 1495
+            "idxor.html": 1455
         },
         {
             "index.html": 681
@@ -306,6 +306,12 @@ var idxobj = {
         },
         {
             "Crucifixion.gif": 26075
+        },
+        {
+            "GiottoScrovegni_Kiss_of_Judas.jpg": 2654383
+        },
+        {
+            "GiottoScrovegni_Kiss_of_Judas.txt": 598
         },
         {
             "Luca_Signorelli_son_hand_book_WGA21298.jpg": 145007
@@ -5323,9 +5329,6 @@ var idxobj = {
         },
         {
             "c5de5e2d32b9c9a256a70eb252071076.txt": 291
-        },
-        {
-            "chinese-neolithic-pottery-vase-1.jpg": 219260
         },
         {
             "chinese-neolithic-pottery-vase-1.txt": 1621
